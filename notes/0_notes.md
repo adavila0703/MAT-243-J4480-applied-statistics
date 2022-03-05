@@ -17,3 +17,32 @@
 - A **continuous variable**'s values are infinite along a continuum of values within a range, typically real numbers. Continuous variables usually represent measurements, like height ( meters) or temperature ( degrees).
 
 - A **discrete variable**'s values are finite within a range, typically integers. Discrete variables usually represent countable items, like people in a family () or cars in a city (). Generally, if "number of" can be added to the beginning, the variable is discrete, like "number of people in a family", but not "number of height". Note: "Discrete" means separate or distinct, not to be confused with "discreet" which means careful or unobtrusive.
+
+### Pandas - DataFrame
+
+#### Attributes
+
+| DataFrame.attribute | Description of output                                  |
+| :------------------ | :----------------------------------------------------- |
+| axes                | Index and column labels                                |
+| columns             | Column labels                                          |
+| dtypes              | Data types of values in each column                    |
+| index               | Index labels                                           |
+| shape               | Ordered pair that gives the number of rows and columns |
+| size                | Number of values in the DataFrame                      |
+| values              | Values in the DataFrame                                |
+
+#### Methods
+
+| DataFrame.method | Description of output                              |
+| :--------------- | :------------------------------------------------- |
+| describe()       | Summary statistics for numerical columns           |
+| head(), tail()   | First/last rows in the DataFrame                   |
+| min(), max()     | Minimum/maximum of values in a numerical column    |
+| mean(), median() | Mean/median of values in a numerical column        |
+| sample()         | Random row                                         |
+| std()            | Standard deviation of values in a numerical column |
+
+### Percentile
+
+![percentile](./images/percentile.png)
