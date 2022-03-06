@@ -26,7 +26,7 @@ Remember to attach your Python output and respond to all questions in your initi
 
 Hello!
 
-My name is Angel Davila. I am currently working as a full stack Software Engineer for Salesloft. I primarily work in web development but also have a huge interest in data and machine learning. I have a ton of experience with Python, having built mutliple web application and API's at my previous company. I decided to come back to school to finally finish out my undergrad in Computer Science with the goal to continue my studies after the undergrad.
+My name is Angel Davila. I am currently working as a full stack Software Engineer for Salesloft. I primarily work in web development but also have a huge interest in data and machine learning. I have a ton of experience with Python, having built multiple web application and API's at my previous company. I decided to come back to school to finally finish out my undergrad in Computer Science with the goal to continue my studies after the undergrad.
 
 Below are the descriptive statistics from my local daily max temperature.
 
@@ -35,5 +35,17 @@ Median= 39.0
 Variance= 83.73
 Standard Deviation= 9.15
 
-The line graph showed the trend downwards in the daily maximum temp. The cold is coming!
+The below line graph shows the trend downwards in the daily maximum temperature, so the cold is coming, but looking like it will start to trend upward after the 14 days. I also added a trend line to have a better visualization of the data.
+
+Central tendency and variability are a combined distribution of your data and allows you to see the big picture of your data. Central tendency are like the hot spots of your data, it shows where most of your data points are located. In a histogram, it would be the bell curve.
+
+The main difference I see between my my data compared to the Zion data is a larger outliers on the Zion data. You can definitely see it in he line graph I printed out after the box graph, they have a larger high and low point from center trend line than my graph. You can also see this in the box graph, the max, min and outlier are farther away from the median line compared to my data. 
+
+
+
+How do your peers' measures of central tendency compare to yours? Are they are lower or higher? What does this signify?
+
+How do the measures of variability compare? What does this signify?
+
+In what ways are their data similar to or different from your own? Why are those similarities or distinctions meaningful?
 
