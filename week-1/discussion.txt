@@ -28,11 +28,12 @@ Hello!
 
 My name is Angel Davila. I am currently working as a full stack Software Engineer for Salesloft. I primarily work in web development but also have a huge interest in data and machine learning. I have a ton of experience with Python, having built mutliple web application and API's at my previous company. I decided to come back to school to finally finish out my undergrad in Computer Science with the goal to continue my studies after the undergrad.
 
-Below are the descriptive statistics after I ran my script
+Below are the descriptive statistics from my local daily max temperature.
 
 Mean= 42.5
 Median= 39.0
 Variance= 83.73
 Standard Deviation= 9.15
 
+The line graph showed the trend downwards in the daily maximum temp. The cold is coming!
 
