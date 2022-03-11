@@ -20,3 +20,8 @@ Is their population distribution skewed? Is their distribution of 1,000 sample m
 Does their grand mean closely approximate their population mean? Does this confirm the second part of the central limit theorem? Why or why not?
 Based on this discussion activity, what have you learned about the central limit theorem?
 Remember to attach your Python output and respond to all questions in your initial and follow-up posts. Be sure to clearly communicate your ideas using appropriate terminology. Finally, be sure to review the Discussion Rubric to understand how you will be graded on this assignment.
+
+
+Hello!
+
+The mean for my TPCP data is 

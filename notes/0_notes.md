@@ -46,3 +46,8 @@
 ### Percentile
 
 ![percentile](./images/percentile.png)
+
+### Research
+
+- Normal distribution
+- Central limit theorem
