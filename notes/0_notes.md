@@ -51,3 +51,21 @@
 
 - Normal distribution
 - Central limit theorem
+
+### Survey Sampling
+
+- Descriptive statistics focuses on summarizing survey data about a sample drawn from a population. Summary statistics include measures of central tendency such as mean, median, and mode; and dispersion such as range and standard deviation. Descriptive statistics cannot make conclusions based on the data. Rather, descriptive statistics is a way to present data in a meaningful way.
+
+- Inferential statistics focuses on using information from the sample to make conclusions about the population from which the sample was drawn. The two primary methods of inferential statistics are confidence intervals, which specify the range within which a parameter falls with a given probability, and hypothesis testing, which allows differences between population parameters to be compared.
+
+- Surveys are conducted to allow statisticians to make generalizations about a population.
+
+- A population is any collection of objects, people, or things about which statistical inference are made. A parameter of a population is a numerical characteristic of a population, such as mean, median, or standard deviation.
+
+- A sampling unit is an individual in the population on which a measurement can be taken.
+
+- The sampling frame is the subset of the population from which a sample is drawn.
+
+- The sample is composed of the sampling units that provide data to be collected.
+
+- A statistic is a numerical characteristic of a sample, rather than the population.
