@@ -69,3 +69,42 @@
 - The sample is composed of the sampling units that provide data to be collected.
 
 - A statistic is a numerical characteristic of a sample, rather than the population.
+
+### Bias
+
+In statistics, a bias is a difference between the parameter predicted from a survey from the true value of the parameter in the population. Two broad categories of statistical bias include selection bias and response bias.
+
+Selection bias exists when the sampling units selected from a population are not representative of the entire population, and are instead biased toward certain subsets of the population. A population should be surveyed in such a way to minimize sampling bias. Several types of selection bias follow.
+
+Undercoverage occurs when certain members of a population are inadequately represented in a sample.
+
+Nonresponse bias occurs when a sample is biased toward members of a population that participate in a survey.
+
+Voluntary response bias occurs when a sample is biased toward members that self-select for participation in a survey.
+
+Response bias can result if the responses of survey participants are affected by how a question is asked or the behaviors or attitudes of the participant. Several types of response bias follow.
+
+Acquiescence bias occurs when respondents tend to agree with a statement in a survey.
+
+Extreme responding occurs when respondents tend to select the most extreme options available.
+
+Social desirability bias occurs when respondents tend to answer questions in a way that is socially accepted by others. In other words, a social desirability bias exists when respondents over-report "good" behaviors or under-report "bad" behaviors.
+
+### Sampling Methods
+
+Sampling methods
+Different sampling methods can help mitigate certain types of statistical bias.
+
+In simple random sampling, a sample is constructed by random selection from the population. Mathematically, simple random sampling is a sampling method in which all possible samples consisting of n units selected from a population of N units are equally likely.
+
+In systematic sampling, every Kth (1st, 10th) unit from a population of units is selected to be in a sample.
+
+In stratified sampling, the population is first divided into groups, or strata, depending on some characteristic. Next, samples within each stratum are randomly selected in a proportional manner.
+
+In cluster sampling, the population is first divided into groups, or clusters, depending on some characteristic. Next, the sample is constructed by randomly selecting one or more clusters.
+
+In convenience sampling, units are drawn from a subset of the population that is readily available.
+
+### Mode
+
+The mode is the most frequently-occurring value in a dataset and is another measure of center. A dataset may have multiple modes if multiple values have the same maximum frequency. A dataset with only unique values does not have a mode.
