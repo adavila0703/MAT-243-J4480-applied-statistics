@@ -1,0 +1,21 @@
+Here are the results of my test.
+
+90% confidence interval (unrounded) = (2.354491284632333, 2.587108715367668)
+90% confidence interval (rounded) = ( 2.35 , 2.59 )
+
+95% confidence interval (unrounded) = (2.3322096175650326, 2.6093903824349685)
+95% confidence interval (rounded) = ( 2.33 , 2.61 )
+
+99% confidence interval (unrounded) = (2.2886613632281554, 2.6529386367718457)
+99% confidence interval (rounded) = ( 2.29 , 2.65 )
+
+z-test hypothesis test for population mean
+test-statistic = 2.35
+two tailed p-value = 0.0186
+
+For this study the null hypothesis would be that the diameter of the ball would be 2.30 cm while the alternative would be the result of our ztest.
+
+After our ztest 2.35 is the result of our ztest which is in the rejection zone of the normal distribution.
+
+In this case, I would say that this null hypothesis should be rejected due to the test being over the 95% confidence mark. 
+
