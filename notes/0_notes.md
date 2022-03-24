@@ -108,3 +108,49 @@ In convenience sampling, units are drawn from a subset of the population that is
 ### Mode
 
 The mode is the most frequently-occurring value in a dataset and is another measure of center. A dataset may have multiple modes if multiple values have the same maximum frequency. A dataset with only unique values does not have a mode.
+
+### probability Mass Function
+
+![pmf](./images/pmf.PNG)
+
+The probability mass function must add up to 1 otherwise it cannot be considered a pmf
+
+### The cumulative distribution function of a probability distribution
+
+![cdf](./images/cdf.PNG)
+
+Done by added up all the probabilities of f(x) then doing the next set of operations.
+
+### Mean or expected value of a discrete random variable
+
+![mean](./images/mean.PNG)
+
+example:
+
+![mean_example](./images/mean_example.png)
+
+python:
+
+![mean_std_dev_python](./images/mean_std_dev_python.png)
+
+```python
+from scipy.stats import rv_discrete
+
+# Defines a list containing the outcomes in the sample space
+x = [0,1,2,3,4,5,6]
+
+# Defines a list containing the probabilities for each outcome
+p = [0.1,0.2,0.3,0.1,0.1,0.0,0.2]
+
+# Links the values in x to the probabilities in p
+discvar = rv_discrete(values=(x,p))
+
+# Returns the mean of the discrete random variable
+print(discvar.mean())
+
+# Returns the variance of the discrete random variable
+print(discvar.var())
+
+# Returns the standard deviation of the discrete random variable
+print(discvar.std())
+```
