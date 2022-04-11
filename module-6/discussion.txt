@@ -1,0 +1,12 @@
+You can definitely see a plot which shows the trend of higher gas milage with lower horsepower.
+
+          mpg        wt        hp
+mpg  1.000000 -0.889319 -0.767982
+wt  -0.889319  1.000000  0.643511
+hp  -0.767982  0.643511  1.000000
+
+Regression equation:
+
+y = 38.5474 - 4.4513 (wt) - 0.0299 (hp)
+
+You would use this model to calculate a decrease of MPG for every unit of weight and horsepower. 4.4513 MPG for weight and 0.0299 MPG for horsepower.
