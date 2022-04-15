@@ -1,4 +1,4 @@
-You can definitely see a plot which shows the trend of higher gas milage with lower horsepower.
+You can definitely see a plot which shows the trend of higher gas mileage with lower horsepower.
 
           mpg        wt        hp
 mpg  1.000000 -0.889319 -0.767982
