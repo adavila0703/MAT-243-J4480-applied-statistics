@@ -1,0 +1,23 @@
+Define the null and alternative hypothesis in mathematical terms and in words.
+Report the level of significance.
+Include the test statistic and the P-value. See Step 2 in the Python script.
+Provide your conclusion and interpretation of the test. Should the null hypothesis be rejected? Why or why not?
+Does a side-by-side boxplot of the 10-year returns of ETFs from the three sectors confirm your conclusion of the hypothesis test? Why or why not? See Step 3 in the Python script.
+
+
+
+The null hypothesis for our analysis is that there is no significant difference between the return of the industry specific ETFs, that is that all three types are the same.
+
+H0: uF = uE = uT
+
+The alternative hypothesis is the average return of at least one of the industry specific efts is significancy different than the other types.
+
+The level of significance for our analysis is 5%.
+
+Below are the test statistic and p-value for the analysis:
+test statistic = 55.07
+P-value = 0.0
+
+Because our p-value is less than the significance level of 5% we can reject the null hypothesis. There isn't sufficient evidence to conclude that at least one of the average returns is significantly different.
+
+When looking at the side by side boxplot you can see that of the three returns, the means are not the same, therefore the means are different concluding that our conclusion is correct.
